@@ -2,6 +2,7 @@
 // Created by jkarr on 11/27/2017.
 //
 //Added this line in
+//Added a little more stuff
 #pragma once
 
 #include <string>
