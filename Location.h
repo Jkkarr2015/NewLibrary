@@ -2,8 +2,12 @@
 // Created by jkarr on 11/27/2017.
 //
 //Added this line in
+<<<<<<< HEAD
 
-//Added this line in here
+
+=======
+//Added a little more stuff
+>>>>>>> 5f27b677e4925c0b70ed596328fd8e047cccc32c
 #pragma once
 
 #include <string>
